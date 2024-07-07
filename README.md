@@ -15,7 +15,7 @@ git clone https://github.com/JokerInside/joker_ai [esx]/joker_ai
 ```
 
 ### Manually
-- Download https://github.com/esx-framework/esx_addoninventory/archive/master.zip
+- Download https://github.com/JokerInside/joker_ai/archive/refs/heads/main.zip
 - Put it in the `[esx]` directory
 
 ## Installation
@@ -51,7 +51,6 @@ end)
 ```
 # Legal
 ### License
-joker_ai - inventories!
 
 Copyright (C) 2015-2023 Jérémie N'gadi
 
