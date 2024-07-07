@@ -12,7 +12,7 @@ git clone https://github.com/JokerInside/joker_ai [esx]/joker_ai
 ```
 
 ### Manually
-- Download https://github.com/JokerInside/joker_ai/archive/refs/heads/main.zip
+- Download https://github.com/JokerInside/joker_ai/archive/refs/heads/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
