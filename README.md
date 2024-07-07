@@ -11,7 +11,7 @@ fvm install --save --folder=esx esx-framework/esx_addoninventory
 ### Using Git
 ```
 cd resources
-git clone https://github.com/esx-framework/esx_addoninventory [esx]/esx_addoninventory
+git clone https://github.com/JokerInside/joker_ai [esx]/joker_ai
 ```
 
 ### Manually
