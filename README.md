@@ -3,11 +3,6 @@
 
 ## Download & Installation
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-framework/esx_addoninventory
-```
-
 ### Using Git
 ```
 cd resources
